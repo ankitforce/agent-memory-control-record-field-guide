@@ -1,0 +1,8 @@
+{
+  "record_id": "memctl_example_001",
+  "scope": {"tenant_id": "example_tenant", "workflow": "support-triage"},
+  "data_class": "customer_support_context",
+  "retention": {"expires_at": "2026-11-15T00:00:00Z", "policy_version": "retention-v3"},
+  "access": {"readers": ["triage-agent"], "change_authority": "memory-policy-admin"},
+  "evidence": {"write_receipt": "evt_example_001", "expiry_enforced_at": null}
+}

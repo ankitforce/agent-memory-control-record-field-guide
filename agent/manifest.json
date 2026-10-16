@@ -1,0 +1,14 @@
+{
+  "name": "agent-memory-control-record-field-guide",
+  "version": "0.1.0",
+  "canonical_article_url": "https://ankitkumar3514.substack.com/agent-memory-control-record",
+  "public_repo_url": "https://github.com/ankitforce/agent-memory-control-record-field-guide",
+  "read_order": [
+    "README.md",
+    "docs/operating-model.md",
+    "schemas/memory-control-record.schema.json",
+    "checklists/implementation-checklist.md"
+  ],
+  "allowed_tasks": ["validate", "template", "assess"],
+  "safety_boundary": "Do not invent retention, classification, ownership, or enforcement evidence."
+}
