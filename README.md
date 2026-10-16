@@ -2,7 +2,7 @@
 
 Reusable artifacts for defining, enforcing, and auditing an AI agent's memory lifecycle.
 
-Canonical article: [The Agent Memory Control Record](https://ankitkumar3514.substack.com/agent-memory-control-record)
+Canonical article: [The Agent Memory Control Record](https://ankitkumar3514.substack.com/p/the-agent-memory-control-record)
 
 ## Start here
 
